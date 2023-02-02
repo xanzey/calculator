@@ -3,7 +3,8 @@
   margin: 0 auto;
   text-align: center;
   padding: 20px;
-  background-color: lightgray;
+  background: rgb(68,65,134);
+background: linear-gradient(NaNdeg, rgba(68,65,134,0.23216710636271765) 2%, rgba(136,136,182,1) 41%, rgba(150,150,192,1) 51%, rgba(30,34,162,1) 68%, rgba(209,211,234,1) 82%, rgba(238,242,255,1) 100%);
   border-radius: 10px;
 }
 
